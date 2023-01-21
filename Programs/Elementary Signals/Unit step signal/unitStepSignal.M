@@ -1,4 +1,5 @@
 % Generate unit step signal/function
+
 clc;
 close all;
 clear all;
