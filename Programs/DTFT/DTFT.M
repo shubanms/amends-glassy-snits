@@ -27,3 +27,4 @@ plot(w/pi,abs(h));
 grid;
 title('Magnitude spectrum');
 ylabel('Amplitude');
+
